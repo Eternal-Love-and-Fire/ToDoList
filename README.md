@@ -7,6 +7,6 @@ This project is a simple todo list application built using Tailwind CSS and Reac
 To run this project locally, follow these steps:
 
 ```bash
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/Eternal-Love-and-Fire/ToDoList.git
 npm install
 npm run dev
